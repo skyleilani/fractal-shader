@@ -4,6 +4,8 @@ A Unity Fractal explorer based on Mandelbrot set. Options to navigate using WASD
 
 Currently still a work in progress in terms of my hardware set up here in person. Base setup currently has two basic buttons. If possible, I'll use conductive paint in the future but seeing what I can do with what I have here instead. 
 
+[Explore the fractal in you're browser here](https://web-unity-mandelbrot.vercel.app/)
+
 ## About the Shader
 
 This shader modifies the traditional Mandelbrot set equation to create a dynamic & interactive fractal exploration experience :) 
